@@ -5,8 +5,10 @@ Hi, I'm a Dallas/Austin developer and engineer. I'm a recent graduate from the U
 ## Skills and Experience
 * 📱 React Native
 * ⚛ React
+* 💻 HTML, CSS, JS
 * 📊 Matlab
 * 🐍 Python
+
 
 
 You can see my resumes and profile here:
