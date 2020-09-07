@@ -1,6 +1,6 @@
 # Rafael Josh
 
-Hi, I'm a Dallas/Austin developer and engineer. I'm a recent graduate from the University of Texas at Dallas as a Physics undergrad. Currently searching for positions in web development, science, and engineering. 
+Hi, I'm a Dallas/Austin based developer and engineer. I'm a recent graduate from the University of Texas at Dallas as a Physics undergrad. Currently searching for positions in web development, science, and engineering. 
 
 ## Skills and Experience
 * 📱 React Native
