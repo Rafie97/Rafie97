@@ -1,6 +1,6 @@
 # Rafael Josh
 
-Hi, I'm an Austin based developer and engineer. I'm a recent Physics BS graduate from the University of Texas at Dallas. Currently working for Farm Generations Coop
+Hi, I'm an Austin based developer and engineer. I'm a recent Physics BS graduate from the University of Texas at Dallas.
 
 ## Skills and Experience
 * 📱 React Native
