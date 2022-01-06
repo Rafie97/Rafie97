@@ -3,9 +3,10 @@
 Hi, I'm an Austin based developer and engineer. I'm a recent Physics BS graduate from the University of Texas at Dallas.
 
 ## Skills and Experience
-* 📱 React Native
 * ⚛ React
-* 💻 HTML, CSS, JS
+* 📱 React Native
+* 💻 HTML, CSS, TS/JS
+* 🌌 Flutter
 * 📊 Matlab
 * 🐍 Python
 
