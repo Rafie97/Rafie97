@@ -1,5 +1,5 @@
 
-# Rafa Josh <a href="https://linkedin.com/in/rafael-josh-261552153" target="blank"><img width="30" src="https://user-images.githubusercontent.com/11741706/156868444-d493a139-cdfc-420f-b2db-0894797673a8.png"></img></a>
+# Rafa Josh <a href="https://linkedin.com/in/rafael-josh-261552153" target="blank"><img width="25" src="https://user-images.githubusercontent.com/11741706/156868444-d493a139-cdfc-420f-b2db-0894797673a8.png"></img></a>
 
 
 Austin based developer and engineer. Currently working for ICON. Physics BS from the University of Texas at Dallas.
