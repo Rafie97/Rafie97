@@ -19,7 +19,7 @@ Austin based developer and engineer. Currently working for ICON. Physics BS from
 
 <style>
   a {
-    color: #0072b1;
+    color: black;
   }
 </style>
 
