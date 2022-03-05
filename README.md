@@ -13,5 +13,5 @@ Austin based developer and engineer. Currently working for ICON. Physics BS from
 
 
 
-<a href="https://linkedin.com/in/rafael-josh-261552153" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rafael-josh-261552153" height="30" width="30" style="padding-bottom:8px" /></a> Resume
+<a href="https://linkedin.com/in/rafael-josh-261552153" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="rafael-josh-261552153" height="30" width="30" style="padding-bottom:8px" /></a>
 </p>
