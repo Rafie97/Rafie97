@@ -1,14 +1,14 @@
-# Rafael Josh
+# Rafa Josh
 
-Hi, I'm an Austin based developer and engineer. I'm a recent Physics BS graduate from the University of Texas at Dallas.
+Austin based developer and engineer. Currently working for ICON. Physics BS from the University of Texas at Dallas.
 
 ## Skills and Experience
 * ⚛ React
 * 📱 React Native
 * 💻 HTML, CSS, TS/JS
 * 🌌 Flutter
-* 📊 Matlab
 * 🐍 Python
+* 📊 Matlab/Mathematica
 
 
 
