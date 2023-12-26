@@ -7,7 +7,7 @@ Austin based developer and engineer. Currently working for ICON. Physics BS from
 ## Skills and Experience
 * ⚛ React
 * 📱 React Native
-* 💻 HTML, CSS, TS/JS
+* 💻 HTML, CSS, TypeScript
 * 🌌 Flutter
 * 🐍 Python
 * 📊 Matlab/Mathematica
